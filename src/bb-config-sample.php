@@ -2,6 +2,8 @@
 /**
  * BoxBilling configuration file example
  *
+  * Modified By VimlyHost Web Services for VimlyHost Clients
+ *
  * If you are not using the web-installer, you can rename this file
  * to "bb-config.php" and fill in the values.
  * Import /install/structure.sql to your database
