@@ -1,0 +1,5 @@
+
+* Removed License Checker
+* Modified Error Messages
+* Modified Error Page Style
+* Added & Activated Custom Clients Area Theme
