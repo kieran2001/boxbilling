@@ -1,0 +1,4 @@
+* Removed License Checker
+* Modified Error Messages
+* Modified Error Page Style
+* Added Custom Theme
